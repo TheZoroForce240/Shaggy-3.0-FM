@@ -1,0 +1,16 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.5" name="purplep" folder="stages/WBG/" startCamPosY="0" startCamPosX="0">
+
+	<sprite name="cBack"       x="-1020" y="-442"    sprite="cBack"      scroll="0.5"  scale="1.0" updateHitbox="true"/>
+	<sprite name="cground"       x="-1320" y="-520"    sprite="cground"      scroll="1.0"  scale="1.0" updateHitbox="true"/>
+	<sprite name="croof"       x="-1020" y="-442"    sprite="croof"      scroll="0.5"  scale="1.0" updateHitbox="true"/>
+	<sprite name="cwalls"       x="-1250" y="-442"    sprite="cwalls"      scroll="1.0"  scale="1.0" updateHitbox="true"/>
+	
+
+	<girlfriend x="250" y="200"/>
+	<dad x="-150" y="200"/>
+	<boyfriend x="600" y="200"/>
+
+	<sprite name="ccrystal"       x="-1286" y="-550"    sprite="ccrystal"      scroll="1.0"  scale="1.0" updateHitbox="true"/>
+
+</stage>

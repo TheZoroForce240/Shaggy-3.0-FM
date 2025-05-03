@@ -1,0 +1,19 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.56" name="mild" folder="stages/MILD MANIA/" startCamPosY="0" startCamPosX="0">
+
+
+
+	<sprite name="sky"               x="-890" y="-360"   sprite="caum0005"       scroll="0.03" scale="1.0" updateHitbox="true"/>
+	<sprite name="back1"       x="-1250" y="-480"    sprite="caum0004"      scroll="0.25"  scale="1.0" updateHitbox="true"/>
+	<sprite name="back1point5"       x="-1250" y="-480"    sprite="shaga_3"      scroll="0.28"  scale="1.0" updateHitbox="true"/>
+	<sprite name="back2"       x="-1250" y="-480"     sprite="caum0003"      scroll="0.45"  scale="1.0" updateHitbox="true"/>
+	<sprite name="back3"       x="-1250" y="-480"      sprite="caum0002"      scroll="0.8"  scale="1.0" updateHitbox="true"/>
+	<sprite name="bg"       x="-1250" y="-480"    sprite="caum0001"      scroll="1.0"  scale="1.0" updateHitbox="true"/>
+
+	<girlfriend x="310" y="120" scroll="1.0"/>
+	<dad x="-200" y="50"/>
+	<boyfriend x="900" y="50"/>
+
+	<sprite name="fg"       x="-1400" y="-550"    sprite="caum0000"      scroll="1.6"  scale="1.1" updateHitbox="true"/>
+	<sprite name="overlay"       x="-890" y="-360"    sprite="overlay"      scroll="0.03"  scale="1.0" updateHitbox="true"/>
+</stage>

@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Limbo" icon="icon-lshaggy" color="#351949" scale="1.7" camy="100">
+	<anim name="singDOWN" anim="Down0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="idle" anim="Idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Left0" x="17" y="1" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Right0" x="7.5" y="0" fps="24" loop="false"/>
+	<anim name="singUP" anim="Up0" x="47" y="40" fps="24" loop="false"/>
+	<anim name="whatdididotoyouhhuuaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa" anim="whatdididotoyouhhuuaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa0" x="37.5" y="112" fps="24" loop="false"/>
+</character>

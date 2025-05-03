@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="Tricky N" camy="0" icon="icon-tricky" color="#175F41" x="-200" y="200">
+	<anim name="singDOWN" anim="down0" x="-7" y="-48" fps="24" loop="false"/>
+	<anim name="idle" anim="idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="left0" x="122.5" y="254" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right0" x="-118.5" y="218" fps="24" loop="false"/>
+	<anim name="singUP" anim="up0" x="79" y="165" fps="24" loop="false"/>
+</character>

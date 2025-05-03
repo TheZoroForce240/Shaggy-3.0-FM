@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="theone" camy="250" camx="100" icon="icon-hell" color="#ABB1CB" flipX="true" x="-500" y="-500">
+	<anim name="singDOWN" anim="Classic HC Tricky Down0" x="-200.5" y="-63" fps="24" loop="false"/>
+	<anim name="idle" anim="Classic HC Tricky Idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Classic HC Tricky Right0" x="-32" y="-343" fps="24" loop="false"/>
+	<anim name="singUP" anim="Classic HC Tricky Up0" x="-72.5" y="-180" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Classic HC Tricky left0" x="142.5" y="-252" fps="24" loop="false"/>
+</character>

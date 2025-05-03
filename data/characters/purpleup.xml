@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="-500" camx="1000" y="-400" sprite="purpleup" icon="icon-purohaggy" color="#620033">
+	<anim name="singDOWN" anim="d0" x="-11" y="-136" fps="24" loop="false"/>
+	<anim name="idle" anim="i0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="l0" x="58" y="5" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="r0" x="-1" y="-18" fps="24" loop="false"/>
+	<anim name="singUP" anim="u0" x="-17.5" y="110" fps="24" loop="false"/>
+</character>

@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 130,
+	"difficulties": [
+		"canon",
+		"mania"
+	],
+	"needsVoices": true,
+	"parsedColor": -10545740,
+	"displayName": "Fushiginachikara",
+	"icon": "icon-purohaggy",
+	"name": "Fushiginachikara",
+	"color": "#5F15B4"
+}

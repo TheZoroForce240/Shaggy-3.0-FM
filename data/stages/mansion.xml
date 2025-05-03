@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.9" name="mansion" folder="stages/" startCamPosY="0" startCamPosX="0">
+
+	<sprite name="bg"       x="-400" y="-160"    sprite="bg_lemon"      scroll="1.0"  scale="1.5" updateHitbox="false"/>	
+
+	<girlfriend x="300" y="130" scroll="1.0" />
+	<dad x="0" y="100"/>
+	<boyfriend x="770" y="100"/>
+
+</stage>

@@ -1,0 +1,10 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.8" name="revolving" folder="stages/" startCamPosY="0" startCamPosX="0">
+
+	
+
+	<girlfriend x="300" y="130" scroll="1.0" />
+	<dad x="-100" y="100"/>
+	<boyfriend x="770" y="100"/>
+
+</stage>

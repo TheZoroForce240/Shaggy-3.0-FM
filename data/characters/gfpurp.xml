@@ -1,0 +1,26 @@
+<!DOCTYPE codename-engine-character>
+<character y="0" sprite="gfpurp" icon="gf" color="#FFFFFF" isGF="true">
+	<anim name="danceLeft" anim="Dancin instance" x="0" y="0" fps="24" loop="false" indices="10023,
+				10001,
+				10002,
+				10003,
+				10004,
+				10005,
+				10006,
+				10007,
+				10008,
+				10009,
+				10011"/>
+	<anim name="danceRight" anim="Dancin instance" x="0" y="0" fps="24" loop="false" indices="10012,
+				10013,
+				10014,
+				10015,
+				10016,
+				10017,
+				10018,
+				10019,
+				10020,
+				10021,
+				10022,
+				10023"/>
+</character>

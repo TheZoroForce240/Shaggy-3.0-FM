@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 160,
+	"difficulties": [
+		"canon",
+		"mania"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "Purple Power",
+	"icon": "icon-purohaggy",
+	"name": "Purple Power",
+	"color": "#FFFFFF"
+}

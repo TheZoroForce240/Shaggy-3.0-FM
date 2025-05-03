@@ -1,0 +1,48 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.6" name="limbo" folder="stages/LIMBO/" startCamPosY="0" startCamPosX="0">
+
+
+	var moutain:BGElement = new BGElement('LIMBO/moutain', -1060, -234, 1, 1, 4);
+	moutain.setGraphicSize(Std.int(moutain.width * 1.6));
+	moutain.updateHitbox();
+	stageSprites.push(moutain);
+
+	var cave:BGElement = new BGElement('LIMBO/cave', -996, -234, 1, 1, 4);
+	cave.setGraphicSize(Std.int(cave.width * 1.6));
+	cave.updateHitbox();
+	stageSprites.push(cave);
+
+	var spike:BGElement = new BGElement('LIMBO/Rspike', -912, -236, 1, 1, 4);
+	spike.setGraphicSize(Std.int(spike.width * 1.6));
+	spike.updateHitbox();
+	stageSprites.push(spike);
+
+	var spikesl:BGElement = new BGElement('LIMBO/Lspike', -1020, -234, 0.8, 1, 3);
+	spikesl.setGraphicSize(Std.int(spikesl.width * 1.6));
+	spikesl.updateHitbox();
+	stageSprites.push(spikesl);
+
+	var blackl:BGElement = new BGElement('LIMBO/blackL', -940, -264, 1, 1, 4);
+	blackl.updateHitbox();
+	//stageSprites.push(blackl);
+
+	var ground:BGElement = new BGElement('LIMBO/ground', -440, 80, 1, 1, 4);
+	ground.setGraphicSize(Std.int(ground.width * 1.6));
+	//ground.updateHitbox();
+
+	<sprite name="moutain"       x="-1060" y="-434"    sprite="moutain"      scroll="0.3"  scale="1.6" updateHitbox="true"/>
+	<sprite name="cave"       x="-996" y="-234"    sprite="cave"      scroll="0.7"  scale="1.6" updateHitbox="true"/>
+	<sprite name="spike"       x="-912" y="-236"    sprite="Rspike"      scroll="0.75"  scale="1.6" updateHitbox="true"/>
+	<sprite name="spikesl"       x="-1020" y="-234"    sprite="Lspike"      scroll="0.8"  scale="1.6" updateHitbox="true"/>
+	
+	
+
+	
+	<dad x="-400" y="300"/>
+
+	<sprite name="ground"       x="-1000" y="-200"    sprite="ground"      scroll="1.0"  scale="1.6" updateHitbox="true"/>
+
+	<girlfriend x="1200" y="500" scroll="1.0" />
+	<boyfriend x="840" y="400"/>
+
+</stage>

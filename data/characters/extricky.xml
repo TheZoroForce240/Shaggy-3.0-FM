@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="extricky" scale="1.0" camy="100" icon="icon-extricky" x="-350" y="-150" color="#FF0000">
+	<anim name="Hank" anim="Hank0" x="-83.75" y="39.9" fps="24" loop="false"/>
+	<anim name="idle" anim="Idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singDOWN" anim="Sing Down0" x="-124.75" y="-321.9" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Sing Left0" x="223.9" y="100.2" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Sing Right0" x="-343.15" y="-62.6" fps="24" loop="false"/>
+	<anim name="singUP" anim="Sing Up0" x="-24.3" y="138" fps="24" loop="false"/>
+</character>

@@ -1,0 +1,9 @@
+<!DOCTYPE codename-engine-character>
+<character y="0" sprite="mild_mania_shag" icon="icon-dad" color="#FF2D32">
+	<anim name="singDOWN" anim="Down0" x="9.5" y="-196" fps="24" loop="false"/>
+	<anim name="idle" anim="Idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Left0" x="172.5" y="-17" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Right0" x="7" y="-6" fps="24" loop="false"/>
+	<anim name="singUP" anim="Up0" x="-9.5" y="41" fps="24" loop="false"/>
+	<anim name="ZEN" anim="ZEN0" x="77.5" y="-199" fps="24" loop="false"/>
+</character>

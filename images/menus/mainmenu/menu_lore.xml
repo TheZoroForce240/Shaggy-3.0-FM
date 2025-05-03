@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_lore.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="lore0000" x="10" y="10" width="332" height="139"/>
+	<SubTexture name="lore0001" x="10" y="10" width="332" height="139"/>
+	<SubTexture name="lore0002" x="10" y="10" width="332" height="139"/>
+	<SubTexture name="lore0003" x="10" y="159" width="332" height="139"/>
+	<SubTexture name="lore0004" x="10" y="159" width="332" height="139"/>
+	<SubTexture name="lore0005" x="10" y="159" width="332" height="139"/>
+	<SubTexture name="lore0006" x="10" y="308" width="332" height="139"/>
+	<SubTexture name="lore0007" x="10" y="308" width="332" height="139"/>
+	<SubTexture name="lore0008" x="10" y="308" width="332" height="139"/>
+	<SubTexture name="lore basic0000" x="10" y="457" width="309" height="123"/>
+	<SubTexture name="lore basic0001" x="10" y="457" width="309" height="123"/>
+	<SubTexture name="lore basic0002" x="10" y="457" width="309" height="123"/>
+	<SubTexture name="lore basic0003" x="10" y="457" width="309" height="123"/>
+	<SubTexture name="lore basic0004" x="10" y="457" width="309" height="123"/>
+	<SubTexture name="lore basic0005" x="10" y="457" width="309" height="123"/>
+	<SubTexture name="lore basic0006" x="10" y="457" width="309" height="123"/>
+	<SubTexture name="lore basic0007" x="10" y="457" width="309" height="123"/>
+	<SubTexture name="lore basic0008" x="10" y="457" width="309" height="123"/>
+</TextureAtlas>

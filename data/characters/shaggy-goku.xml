@@ -1,0 +1,13 @@
+<!DOCTYPE codename-engine-character>
+<character sprite="shaggy_goku" icon="icon-purohaggy" color="#620033" x="-200">
+	<anim name="singDOWN" anim="down0" x="3" y="-160" fps="24" loop="false"/>
+	<anim name="singDOWN-alt" anim="down alt0" x="55" y="-54" fps="24" loop="false"/>
+	<anim name="idle" anim="idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="idle-alt" anim="idle alt0" x="87" y="99" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="left0" x="-2.5" y="14" fps="24" loop="false"/>
+	<anim name="singLEFT-alt" anim="left alt0" x="84" y="127" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="right0" x="-3" y="-35" fps="24" loop="false"/>
+	<anim name="singRIGHT-alt" anim="right alt0" x="40" y="100" fps="24" loop="false"/>
+	<anim name="singUP" anim="up0" x="-83.5" y="121" fps="24" loop="false"/>
+	<anim name="singUP-alt" anim="up-alt0" x="-1.5" y="255" fps="24" loop="false"/>
+</character>

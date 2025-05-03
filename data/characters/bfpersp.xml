@@ -1,0 +1,12 @@
+<!DOCTYPE codename-engine-character>
+<character y="240" sprite="shag_bf_perspecive_fnf" flipX="true" isPlayer="true" icon="icon-bf" color="#51A8EC" scale="1.6" camx="-200">
+	<anim name="singDOWN" anim="Down0" x="10" y="-20" fps="24" loop="false"/>
+	<anim name="singDOWNmiss" anim="DownMiss0" x="9.5" y="-22" fps="24" loop="false"/>
+	<anim name="idle" anim="Idle0" x="0" y="0" fps="24" loop="false"/>
+	<anim name="singLEFT" anim="Left0" x="29.5" y="-3" fps="24" loop="false"/>
+	<anim name="singLEFTmiss" anim="LeftMiss0" x="23.5" y="-7" fps="24" loop="false"/>
+	<anim name="singRIGHT" anim="Right0" x="8.5" y="1" fps="24" loop="false"/>
+	<anim name="singRIGHTmiss" anim="RightMiss0" x="8.5" y="1" fps="24" loop="false"/>
+	<anim name="singUP" anim="Up0" x="8" y="33" fps="24" loop="false"/>
+	<anim name="singUPmiss" anim="UpMiss0" x="13" y="30" fps="24" loop="false"/>
+</character>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_awards.png">
+	<!-- Created with Adobe Animate version 19.2.0.405 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="awards0000" x="10" y="10" width="460" height="373"/>
+	<SubTexture name="awards0001" x="10" y="10" width="460" height="373"/>
+	<SubTexture name="awards0002" x="10" y="10" width="460" height="373"/>
+	<SubTexture name="awards0003" x="480" y="10" width="460" height="373"/>
+	<SubTexture name="awards0004" x="480" y="10" width="460" height="373"/>
+	<SubTexture name="awards0005" x="480" y="10" width="460" height="373"/>
+	<SubTexture name="awards0006" x="10" y="393" width="460" height="373"/>
+	<SubTexture name="awards0007" x="10" y="393" width="460" height="373"/>
+	<SubTexture name="awards0008" x="10" y="393" width="460" height="373"/>
+	<SubTexture name="awards basic0000" x="480" y="393" width="400" height="270"/>
+	<SubTexture name="awards basic0001" x="480" y="393" width="400" height="270"/>
+	<SubTexture name="awards basic0002" x="480" y="393" width="400" height="270"/>
+	<SubTexture name="awards basic0003" x="480" y="393" width="400" height="270"/>
+	<SubTexture name="awards basic0004" x="480" y="393" width="400" height="270"/>
+	<SubTexture name="awards basic0005" x="480" y="393" width="400" height="270"/>
+	<SubTexture name="awards basic0006" x="480" y="393" width="400" height="270"/>
+	<SubTexture name="awards basic0007" x="480" y="393" width="400" height="270"/>
+	<SubTexture name="awards basic0008" x="480" y="393" width="400" height="270"/>
+</TextureAtlas>

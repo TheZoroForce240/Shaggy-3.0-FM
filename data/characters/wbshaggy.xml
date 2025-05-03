@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character isPlayer="false" flipX="false" x="-400" y="-400" color="#000000" camx="-210" camy="50" icon="icon-wbshaggy" sprite="shaggy_green">
+	<anim name="idle"          anim="b_Idle"      fps="30" loop="false" x="0"  y="0"/>
+	<anim name="singUP"        anim="b_Up"        fps="30" loop="false" x="-16" y="115"/>
+	<anim name="singLEFT"      anim="b_Left"      fps="30" loop="false" x="131"  y="-94"/>
+	<anim name="singRIGHT"     anim="b_Right"     fps="30" loop="false" x="119" y="-106"/>
+	<anim name="singDOWN"      anim="b_Down"      fps="30" loop="false" x="104" y="-140"/>
+</character>

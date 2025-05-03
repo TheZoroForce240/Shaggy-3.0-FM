@@ -1,0 +1,13 @@
+# THIS FILE ISNT NECESSARY,
+# BUT YOU CAN USE IT TO SORT WEEKS
+
+chapter1
+chapter2
+chapter3
+chapter4
+chapter5
+chapter6
+zeph
+green
+red
+purple

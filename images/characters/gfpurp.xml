@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfpurp">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dancin instance 10000" x="0" y="0" width="456" height="653" pivotX="108.5" pivotY="286.65" frameX="0" frameY="-2" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10001" x="0" y="0" width="456" height="653" frameX="0" frameY="-2" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10002" x="456" y="0" width="452" height="652" frameX="0" frameY="-3" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10003" x="908" y="0" width="454" height="653" frameX="0" frameY="-3" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10004" x="1362" y="0" width="449" height="654" frameX="0" frameY="-2" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10005" x="1811" y="0" width="445" height="654" frameX="-2" frameY="-2" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10006" x="2256" y="0" width="444" height="654" frameX="-2" frameY="-2" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10007" x="2700" y="0" width="437" height="643" frameX="-12" frameY="-13" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10008" x="2700" y="0" width="437" height="643" frameX="-12" frameY="-13" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10009" x="2700" y="0" width="437" height="643" frameX="-12" frameY="-13" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10010" x="3137" y="0" width="437" height="648" frameX="-12" frameY="-8" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10011" x="3137" y="0" width="437" height="648" frameX="-12" frameY="-8" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10012" x="3574" y="0" width="437" height="648" frameX="-12" frameY="-8" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10013" x="0" y="654" width="437" height="653" frameX="-12" frameY="-3" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10014" x="437" y="654" width="441" height="656" frameX="-12" frameY="0" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10015" x="878" y="654" width="455" height="656" frameX="-23" frameY="0" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10016" x="878" y="654" width="455" height="656" frameX="-23" frameY="0" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10017" x="1333" y="654" width="451" height="653" frameX="-23" frameY="-3" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10018" x="1784" y="654" width="451" height="653" frameX="-19" frameY="-3" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10019" x="2235" y="654" width="446" height="651" frameX="-19" frameY="-5" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10020" x="2681" y="654" width="439" height="651" frameX="-17" frameY="-5" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10021" x="3120" y="654" width="439" height="650" frameX="-17" frameY="-6" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10022" x="3559" y="654" width="430" height="644" frameX="-14" frameY="-12" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10023" x="3559" y="654" width="430" height="644" frameX="-14" frameY="-12" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10024" x="3559" y="654" width="430" height="644" frameX="-14" frameY="-12" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10025" x="0" y="1310" width="439" height="650" frameX="-12" frameY="-7" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10026" x="0" y="1310" width="439" height="650" frameX="-12" frameY="-7" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10027" x="0" y="1310" width="439" height="650" frameX="-12" frameY="-7" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10028" x="439" y="1310" width="442" height="649" frameX="-12" frameY="-8" frameWidth="478" frameHeight="657"/>
+	<SubTexture name="Dancin instance 10029" x="439" y="1310" width="442" height="649" frameX="-12" frameY="-8" frameWidth="478" frameHeight="657"/>
+</TextureAtlas>

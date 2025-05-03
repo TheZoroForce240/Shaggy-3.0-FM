@@ -1,0 +1,17 @@
+<!DOCTYPE codename-engine-stage>
+<stage zoom="0.56" name="purple" folder="stages/WBG/" startCamPosY="0" startCamPosX="0">
+
+
+
+	<sprite name="crystal"       x="-1020" y="-642"    sprite="crystal"      scroll="0.5"  scale="1.0" updateHitbox="true"/>
+	<sprite name="circle"       x="-900" y="-580"    sprite="circle"      scroll="0.55"  scale="1.0" updateHitbox="true"/>
+	<sprite name="bbaseg"       x="-1320" y="390"    sprite="base"      scroll="1.0"  scale="1.0" updateHitbox="true"/>
+	
+
+	<girlfriend x="0" y="200"/>
+	<dad x="-450" y="200"/>
+	<boyfriend x="300" y="200"/>
+
+	<sprite name="frontrocks"       x="-1486" y="250"    sprite="frontrocks"      scroll="1.2"  scale="1.0" updateHitbox="true"/>
+
+</stage>

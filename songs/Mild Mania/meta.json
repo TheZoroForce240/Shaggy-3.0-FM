@@ -1,0 +1,18 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 190,
+	"difficulties": [
+		"canon",
+		"mania"
+	],
+	"needsVoices": true,
+	"parsedColor": -65536,
+	"displayName": "Mild Mania",
+	"icon": "icon-dad",
+	"name": "Mild Mania",
+	"color": "#FF0000",
+	"customValues": {}
+}

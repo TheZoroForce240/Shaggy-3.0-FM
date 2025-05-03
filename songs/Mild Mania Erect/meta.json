@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 210,
+	"difficulties": [
+		"canon",
+		"mania"
+	],
+	"needsVoices": true,
+	"parsedColor": -16318487,
+	"displayName": "Mild Mania Erect",
+	"icon": "icon-dad",
+	"name": "Mild Mania Erect",
+	"color": "#06FFE9"
+}

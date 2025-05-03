@@ -1,0 +1,17 @@
+{
+	"beatsPerMeasure": 4,
+	"opponentModeAllowed": true,
+	"coopAllowed": true,
+	"stepsPerBeat": 4,
+	"bpm": 196,
+	"difficulties": [
+		"canon",
+		"mania"
+	],
+	"needsVoices": true,
+	"parsedColor": -1,
+	"displayName": "Vain",
+	"icon": "icon-purohaggy",
+	"name": "Vain",
+	"color": "#FFFFFF"
+}
